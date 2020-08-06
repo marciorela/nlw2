@@ -1,0 +1,12 @@
+npm install express
+
+-- start node server
+node src/server.js
+
+-- monitoramento do "node ssrc/server.js"
+npm install nodemon -D
+
+-- deixa rodando as configurações (package.json)
+npm run dev
+
+npm install nunjucks
