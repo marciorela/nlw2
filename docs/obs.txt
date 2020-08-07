@@ -10,3 +10,8 @@ npm install nodemon -D
 npm run dev
 
 npm install nunjucks
+
+npm install sqlite-async
+
+// RODAR O SCRIPT PELO NODE
+node src/database/teste.js 
